@@ -1,1 +1,3 @@
-# dart-financial-analysis
+# 코스피 상장사 업종별 재무구조 분석
+
+OpenDART API로 재무데이터를 수집·분석하는 개인 프로젝트입니다. (작성 중)

@@ -1,0 +1,21 @@
+# 비밀
+.env
+
+# 데이터
+raw/
+*.csv
+*.json
+!.env.example
+
+# 파이썬
+__pycache__/
+venv/
+.venv/
+*.pyc
+
+# 노트북
+.ipynb_checkpoints/
+
+# 에디터
+.vscode/
+.DS_Store
